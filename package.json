@@ -1,0 +1,17 @@
+{
+  "name": "vdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vue/compiler-sfc": "^3.2.38",
+    "koa": "^2.13.4",
+    "vue": "^3.2.38"
+  }
+}
